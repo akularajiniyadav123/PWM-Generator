@@ -1,0 +1,20 @@
+Duty Cycle = 50%
+████████________████████________
+Duty Cycle = 25%
+████____████____████____████____
+Duty Cycle = 75%
+████████████____████████████____
+
+Where:
+
+HIGH Time = ON Time
+LOW Time = OFF Time
+
+Duty Cycle Formula:
+
+Duty Cycle=
+Period
+ON Time
+	​
+
+×100
